@@ -1,0 +1,36 @@
+2021-06-24 20:09:30 INFO  com.onurakca.Pages.HomePage:33 - https://www.n11.com/ adresine gidilir
+2021-06-24 20:09:30 INFO  com.onurakca.BasePage.BasePage:35 - sayfanın yüklenmesini bekler
+2021-06-24 20:09:30 INFO  com.onurakca.Pages.HomePage:35 - sayfanın açıldığı kontrol edildi
+2021-06-24 20:09:30 INFO  com.onurakca.BasePage.BasePage:48 - sayfanın title'nı kontrol eder
+2021-06-24 20:09:30 INFO  com.onurakca.BasePage.BasePage:51 - Sayfanın title'ı doğru bir şekilde gelmiştir
+2021-06-24 20:09:30 INFO  com.onurakca.Pages.HomePage:37 - doğru sayfa açıldığı kontrol edildi
+2021-06-24 20:09:40 INFO  com.onurakca.BasePage.BasePage:60 - elementin üzerine gider
+2021-06-24 20:09:40 INFO  com.onurakca.Pages.HomePage:42 - mouse,magazalar elementinin üzerine gider
+2021-06-24 20:09:41 INFO  com.onurakca.Pages.HomePage:56 - 1.popup kapatıldı
+2021-06-24 20:09:42 INFO  com.onurakca.Pages.HomePage:45 - popuplar kapatılır
+2021-06-24 20:09:47 INFO  com.onurakca.Pages.HomePage:48 - magazaları göster button'una tıklanır
+2021-06-24 20:09:48 INFO  com.onurakca.BasePage.BasePage:35 - sayfanın yüklenmesini bekler
+2021-06-24 20:14:14 INFO  com.onurakca.Pages.MagazalarPage:60 - Magaza listesi exel'e aktarılır
+2021-06-24 20:14:16 INFO  com.onurakca.Pages.MagazalarPage:70 - Random magaza seçilir ve tıklanır
+2021-06-24 20:14:16 INFO  com.onurakca.BasePage.BasePage:35 - sayfanın yüklenmesini bekler
+2021-06-24 20:14:18 INFO  com.onurakca.Pages.MagazaPage:27 - magaza yorumlarına tıklanır
+2021-06-24 20:14:18 INFO  com.onurakca.Pages.MagazaPage:32 - magaza yorumları görüntülenir
+2021-06-24 20:14:18 INFO  com.onurakca.Pages.MagazaPage:33 - magaza yorumları:13
+2021-06-24 20:28:01 INFO  com.onurakca.Pages.HomePage:33 - https://www.n11.com/ adresine gidilir
+2021-06-24 20:28:01 INFO  com.onurakca.BasePage.BasePage:35 - sayfanın yüklenmesini bekler
+2021-06-24 20:28:01 INFO  com.onurakca.Pages.HomePage:35 - sayfanın açıldığı kontrol edildi
+2021-06-24 20:28:01 INFO  com.onurakca.BasePage.BasePage:48 - sayfanın title'nı kontrol eder
+2021-06-24 20:28:01 INFO  com.onurakca.BasePage.BasePage:51 - Sayfanın title'ı doğru bir şekilde gelmiştir
+2021-06-24 20:28:01 INFO  com.onurakca.Pages.HomePage:37 - doğru sayfa açıldığı kontrol edildi
+2021-06-24 20:28:12 INFO  com.onurakca.Pages.HomePage:63 - 1.popup kapatıldı
+2021-06-24 20:28:13 INFO  com.onurakca.Pages.HomePage:66 - 2.popup kapatıldı
+2021-06-24 20:28:13 INFO  com.onurakca.BasePage.BasePage:76 - serchbar'a search değeri girilir
+2021-06-24 20:28:15 INFO  com.onurakca.BasePage.BasePage:79 - arama buttonuna tıklanır
+2021-06-24 20:28:16 INFO  com.onurakca.Pages.SearchPage:21 - marka seçilir
+2021-06-24 20:28:18 INFO  com.onurakca.Pages.SearchPage:24 - 3.ürün seçilir
+2021-06-24 20:28:18 INFO  com.onurakca.BasePage.BasePage:35 - sayfanın yüklenmesini bekler
+2021-06-24 20:28:20 INFO  com.onurakca.Pages.UrunPage:25 - urun sayisi 1 arttırılır 2 olur
+2021-06-24 20:28:21 INFO  com.onurakca.Pages.UrunPage:28 - urunler sepete eklenir
+2021-06-24 20:28:24 INFO  com.onurakca.Pages.UrunPage:31 - sepete git buttonuna tıklanır
+2021-06-24 20:28:24 INFO  com.onurakca.BasePage.BasePage:35 - sayfanın yüklenmesini bekler
+2021-06-24 20:28:24 INFO  com.onurakca.Pages.SepetPage:21 - sepette 2 adet ürün olduğu doğrulanır
